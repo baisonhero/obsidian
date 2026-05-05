@@ -39,7 +39,7 @@ aliases:
 ## 主なツール
 
 - **[[Syft]]**（Anchore製、OSS）— コンテナイメージやソースから一発でSBOM生成。CycloneDX/SPDX両対応
-- **[[Trivy]]** — SCAスキャナだが SBOM 出力にも対応
+- **[[Trivy]]** — SCAスキャナだが SBOM 出力にも対応[]()
 - **GitHub Dependency Graph** — リポジトリのSettings から SBOM をエクスポート可能（標準機能）
 - **Snyk** / **Dependabot** / **Anchore** など主要なSCAツールはおおむね対応
 - **CycloneDX CLI** — 各言語のパッケージマネージャ用の専用ジェネレータあり（Maven、npm、pip 等）

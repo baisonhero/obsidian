@@ -24,6 +24,11 @@ created: 2026-04-19
 - [[A09 Security Logging and Monitoring Failures]]
 - [[A10 SSRF]]
 
+## 標準・スコアリング
+- [[CVE]]
+- [[CVSS]]
+- [[セキュリティ標準とフレームワーク]]
+
 ## AWS関連（→ [[MOC AWS]] とも繋がる）
 
 ## サプライチェーンセキュリティ
