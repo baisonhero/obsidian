@@ -76,6 +76,7 @@ AWS は資格を取った時点と現在で、サービス構成・ベストプ�
 ## AI / Claude
 
 - [[AWS で Claude を利用する 3 つの選択肢]] — Bedrock / Claude Platform on AWS / Claude Enterprise の違い、1st/3rd party 視点、Marketplace の役割
+- [[AWS 生成AI 試験直前ノート]] — Bedrock 中心の資格対策：判断軸／Guardrails・KB・Agents／ベクトルストア選定／RAG 品質／ABAC まで網羅
 
 ## データ / 分析
 
